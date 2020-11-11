@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Grade8AppTemplate
 //
-//  Created by Saeed Rahman on 2/5/2019.
-//  Copyright © 2019 Saeed Rahman. All rights reserved.
 //
 
 import UIKit
